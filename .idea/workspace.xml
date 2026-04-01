@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bc617c6-6d2a-4568-a567-1603b8be25cb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="dsa" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2twJRCfJScanLXSGovWPA7Ayh3k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/shashanka.hegade/OneDrive - Westernacher/kafka-streams/kafka",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.PhoneNumberAndLetters">
+    <configuration name="LongestPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dsa.LongestPrefix" />
+      <module name="dsa.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="dsa.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhoneNumberAndLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dsa.PhoneNumberAndLetters" />
+      <module name="dsa.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dsa.Queue" />
+      <module name="dsa.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextJustification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dsa.TextJustification" />
+      <module name="dsa.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.dsa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PhoneNumberAndLetters" />
+        <item itemvalue="Application.TextJustification" />
+        <item itemvalue="Application.Queue" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LongestPrefix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bc617c6-6d2a-4568-a567-1603b8be25cb" name="Changes" comment="" />
+      <created>1741257195658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741257195658</updated>
+      <workItem from="1741257197316" duration="1441000" />
+      <workItem from="1741358792191" duration="4083000" />
+      <workItem from="1741581186684" duration="11000" />
+      <workItem from="1741694495414" duration="1056000" />
+      <workItem from="1748872230900" duration="603000" />
+      <workItem from="1748925671892" duration="9000" />
+      <workItem from="1751286436254" duration="7934000" />
+      <workItem from="1751342083425" duration="1808000" />
+      <workItem from="1751385650102" duration="5021000" />
+      <workItem from="1751431437454" duration="9000" />
+      <workItem from="1751475958218" duration="3615000" />
+      <workItem from="1751517834869" duration="2619000" />
+      <workItem from="1751528860810" duration="889000" />
+      <workItem from="1751905119580" duration="1825000" />
+      <workItem from="1751949731875" duration="7000" />
+      <workItem from="1752055097002" duration="599000" />
+      <workItem from="1753958093359" duration="1658000" />
+      <workItem from="1754560947199" duration="1680000" />
+      <workItem from="1754581982258" duration="1732000" />
+      <workItem from="1754628312160" duration="28000" />
+      <workItem from="1754911377921" duration="3819000" />
+      <workItem from="1755606615336" duration="272000" />
+      <workItem from="1755686172302" duration="3520000" />
+      <workItem from="1755707809089" duration="2520000" />
+      <workItem from="1755751447770" duration="3566000" />
+      <workItem from="1755785285130" duration="599000" />
+      <workItem from="1755837997848" duration="7000" />
+      <workItem from="1767627968428" duration="894000" />
+      <workItem from="1767674559020" duration="8000" />
+      <workItem from="1768840422433" duration="598000" />
+      <workItem from="1768884191895" duration="1235000" />
+      <workItem from="1768923595627" duration="1607000" />
+      <workItem from="1768970664729" duration="1799000" />
+      <workItem from="1769180375155" duration="1016000" />
+      <workItem from="1769488982828" duration="108000" />
+      <workItem from="1769529837071" duration="1127000" />
+      <workItem from="1769615885154" duration="3083000" />
+      <workItem from="1769661870852" duration="253000" />
+      <workItem from="1769963295757" duration="3306000" />
+      <workItem from="1775053718465" duration="860000" />
+    </task>
+    <task id="LOCAL-00001" summary="Dsa practice">
+      <created>1775054339474</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1775054339474</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dsa practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dsa practice" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/dsa/MergeTwoArray.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/dsa/ReverseLinkedList.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/dsa/ReverseLinkedList.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/dsa/BinarySearch.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/dsa/LetterCombinations.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/dsa/LetterCombinations.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/dsa/LongestPrefix.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/dsa/TextJustification.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/dsa/TextJustification.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
