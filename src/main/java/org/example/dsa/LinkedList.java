@@ -17,11 +17,13 @@ public class LinkedList {
   Node head;
 
   public void insert(int element) {
+    //10
     Node newNode = new Node(element);
     if (head == null) {
       head = newNode;
       return;
     }
+    //10->null
     Node current = head;
     while (current.next != null) {
         current= current.next;

@@ -1,11 +1,13 @@
 package org.example.dsa;
 
 import java.util.Arrays;
+import java.util.LinkedHashSet;
+import java.util.Set;
 
 public class FindDuplicate {
 
   public static void main(String[] args) {
-    int[] arr=new int[]{1,2,3,2,4};
+    int[] arr=new int[]{1,2,1,2,4};
     Arrays.sort(arr); // Step 1: Sort the array
 
     int i = 0; // First pointer
@@ -18,6 +20,21 @@ public class FindDuplicate {
       i++; // Move both pointers
       j++;
     }
+
+    int[] array=new int[]{7,3,4,7,3,5};
+    Set<Integer> set=new LinkedHashSet<>();
+    for(int a: array){
+      set.add(a);
+    }
+
+    int[] result=new int[set.size()];
+    int m=0;
+    for(int s:set){
+      result[m++]=s;
+    }
+    Arrays.stream(result).forEach(System.out::println);
   }
+
+
 
 }
