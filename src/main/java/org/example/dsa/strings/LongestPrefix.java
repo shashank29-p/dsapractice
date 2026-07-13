@@ -1,4 +1,4 @@
-package org.example.dsa;
+package org.example.dsa.strings;
 
 import java.util.Arrays;
 

@@ -1,6 +1,4 @@
-package org.example.dsa;
-
-import org.example.dsa.LinkedList.Node;
+package org.example.dsa.linkedList;
 
 public class CircularLinkedList {
 

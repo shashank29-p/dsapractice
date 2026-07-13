@@ -27,6 +27,7 @@ public class ExperimentEmployee {
             Collectors.mapping(Employee::getName, Collectors.toList())));
     //collect(Collectors.groupingBy(Employee::getDepartment, collectors.mapping(Employee::getName,
     // Collectors.toList()));
+    employeeList.stream().collect(Collectors.groupingBy(Employee::getDepartment,Collectors.mapping(Employee::getName,Collectors.toList())));
     System.out.println("Employees per department:" + empList);
 
     Collection<Optional<Employee>> values = employeeList.stream()
@@ -102,6 +103,9 @@ public class ExperimentEmployee {
 
     List<Employee> uniqueEmployees= new ArrayList<>(employeeList.stream().collect(Collectors.toMap(Employee::getSalary,e->e,(e1,e2)->e1)).values());
     System.out.println("Remove Duplicate Employees Based on Salary"+ uniqueEmployees);
+
+
+    employeeList.stream().collect(Collectors.groupingBy(Employee::getDepartment, Collectors.averagingDouble(Employee::getSalary)));
   }
 
 }

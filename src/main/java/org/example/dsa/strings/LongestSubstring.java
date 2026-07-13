@@ -1,28 +1,31 @@
 package org.example.dsa.strings;
 
 import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 
 public class LongestSubstring {
-
+ //Non repeating char
   public static void main(String[] args) {
 
     String input="abcabcabc";
-
-    Map<Character,Integer> map=new HashMap<>();
     int left=0;
+    int start=0;
     int max=0;
-
-    for(int right=0; right<input.length(); right++){
-      char ch= input.charAt(right);
-
-      if(map.containsKey(ch)){
-        left=Math.max(left,map.get(ch)+1);
+    HashSet<Character> set=new HashSet<>();
+    for(int right=0;right<input.length();right++){
+      while(set.contains(input.charAt(right))){
+        set.remove(input.charAt(left));
+        left++;
       }
-      map.put(ch,right);
-      max=Math.max(max,right-left+1);
+
+      set.add(input.charAt(right));
+
+      if(right-left+1>max){
+        max=right-left+1;
+        start=left;
+      }
     }
-    System.out.println(input.substring(max));
+    System.out.print(input.substring(start,start+max));
   }
 
 }

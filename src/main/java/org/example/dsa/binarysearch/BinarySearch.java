@@ -1,4 +1,4 @@
-package org.example.dsa;
+package org.example.dsa.binarysearch;
 
 public class BinarySearch {
 

@@ -1,8 +1,4 @@
-package org.example.dsa;
-
-import java.util.HashMap;
-import java.util.Map;
-import org.example.dsa.LinkedList.Node;
+package org.example.dsa.linkedList;
 
 public class LinkedListCycle {
 
